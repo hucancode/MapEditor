@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<element anchor_x="242" anchor_y="89" width="478" height="271">
+  <sprites count="2">
+    <sprite offset_x="-3" offset_y="-46" anchor_x="239" anchor_y="43" texture="ladder1_0.png" />
+    <sprite offset_x="4" offset_y="47" anchor_x="246" anchor_y="0" texture="ladder1_1.png" />
+  </sprites>
+  <polygons count="2">
+    <polygon count="3">
+      <vertex x="-230" y="-25" />
+      <vertex x="-180" y="-83" />
+      <vertex x="-180" y="-49" />
+    </polygon>
+    <polygon count="3">
+      <vertex x="160" y="175" />
+      <vertex x="216" y="109" />
+      <vertex x="214" y="146" />
+    </polygon>
+  </polygons>
+</element>

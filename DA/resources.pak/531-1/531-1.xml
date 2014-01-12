@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<element anchor_x="160" anchor_y="227" width="318" height="283">
+  <sprites count="3">
+    <sprite offset_x="-73" offset_y="-28" anchor_x="87" anchor_y="199" texture="531-1_0.png" />
+    <sprite offset_x="67" offset_y="-7" anchor_x="54" anchor_y="220" texture="531-1_1.png" />
+    <sprite offset_x="6" offset_y="36" anchor_x="149" anchor_y="205" texture="531-1_2.png" />
+  </sprites>
+  <polygons count="1">
+    <polygon count="4">
+      <vertex x="-151" y="-31" />
+      <vertex x="3" y="43" />
+      <vertex x="106" y="-4" />
+      <vertex x="-36" y="-76" />
+    </polygon>
+  </polygons>
+</element>

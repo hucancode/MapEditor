@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<element anchor_x="354" anchor_y="442" width="802" height="589">
+  <sprites count="5">
+    <sprite offset_x="210" offset_y="87" anchor_x="36" anchor_y="529" texture="house4_0.png" />
+    <sprite offset_x="87" offset_y="62" anchor_x="85" anchor_y="504" texture="house4_1.png" />
+    <sprite offset_x="-40" offset_y="-18" anchor_x="67" anchor_y="424" texture="house4_2.png" />
+    <sprite offset_x="-189" offset_y="-73" anchor_x="165" anchor_y="369" texture="house4_3.png" />
+    <sprite offset_x="-64" offset_y="-57" anchor_x="45" anchor_y="34" texture="house4_4.png" />
+  </sprites>
+  <polygons count="2">
+    <polygon count="4">
+      <vertex x="-224" y="-71" />
+      <vertex x="-116" y="-21" />
+      <vertex x="-36" y="-66" />
+      <vertex x="-142" y="-117" />
+    </polygon>
+    <polygon count="4">
+      <vertex x="68" y="69" />
+      <vertex x="174" y="129" />
+      <vertex x="257" y="81" />
+      <vertex x="161" y="23" />
+    </polygon>
+  </polygons>
+</element>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<element anchor_x="264" anchor_y="319" width="500" height="438">
+  <sprites count="2">
+    <sprite offset_x="124" offset_y="8" anchor_x="114" anchor_y="327" texture="house1_0.png" />
+    <sprite offset_x="-123" offset_y="-8" anchor_x="141" anchor_y="311" texture="house1_1.png" />
+  </sprites>
+  <polygons count="1">
+    <polygon count="4">
+      <vertex x="-238" y="-7" />
+      <vertex x="6" y="117" />
+      <vertex x="229" y="7" />
+      <vertex x="-17" y="-112" />
+    </polygon>
+  </polygons>
+</element>
